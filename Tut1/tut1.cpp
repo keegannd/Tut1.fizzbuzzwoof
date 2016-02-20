@@ -14,9 +14,7 @@ int main()
 			cout << "Fizz" << endl;
 		}
 		else if (i % 5 == 0)
-		{
 			cout << "Buzz" << endl;
-		}
 		else
 		{
 			cout << i << endl;
